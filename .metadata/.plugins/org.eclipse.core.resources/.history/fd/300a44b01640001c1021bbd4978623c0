@@ -1,0 +1,10 @@
+package plsql;
+//javalink
+public class PlsqlProcedure {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

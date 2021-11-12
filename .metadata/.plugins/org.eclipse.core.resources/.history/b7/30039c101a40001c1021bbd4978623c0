@@ -1,0 +1,16 @@
+--[결과]
+--p2 :ab
+--p3 :a
+------ a_exponent가 음수이면 값을 0으로 변경하고, 1을 반환한다.
+
+create or replace PROCEDURE compute_power(
+  a_string IN varchar2(20),
+  b_string IN OUT varchar2(30),
+  c_string OUT varchar2(30),
+
+)
+IS
+BEGIN
+	
+	
+END ;
